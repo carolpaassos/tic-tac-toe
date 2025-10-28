@@ -71,7 +71,7 @@ Durante o desenvolvimento deste projeto, foram aplicados e aprimorados os seguin
 
 ## 🧑‍🎓 Créditos e Autoria  
 Projeto desenvolvido por **Carolina Ferreira Passos Pessoa**,  
-como parte da **Prática 07 — Tópicos em Computação**,  
+como parte da **Prática 07 - Tópicos em Computação**,  
 sob orientação do professor responsável pela disciplina.  
 
 ---
