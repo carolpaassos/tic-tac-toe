@@ -1,4 +1,4 @@
-# 🎮 Prática 07 — Jogo da Velha (Tic Tac Toe)
+# 🎮 Prática 07 - Jogo da Velha (Tic Tac Toe)
 
 ## 👩‍💻 Aluna  
 **Carolina Ferreira Passos Pessoa**
@@ -10,11 +10,11 @@ O jogo permite que dois jogadores se alternem entre os símbolos **X** e **O**, 
 Há também um botão para **reiniciar o jogo**, mantendo o placar acumulado.
 
 ## ⚙️ Tecnologias Utilizadas  
-- **React** — Biblioteca JavaScript para construção de interfaces dinâmicas.  
-- **TypeScript** — Linguagem baseada em JavaScript com tipagem estática.  
-- **Vite** — Ferramenta para build e execução rápida de projetos React.  
-- **CSS3** — Para a estilização da interface e responsividade.  
-- **Node.js e npm** — Para gerenciamento de dependências e execução do ambiente de desenvolvimento.  
+- **React** - Biblioteca JavaScript para construção de interfaces dinâmicas.  
+- **TypeScript** - Linguagem baseada em JavaScript com tipagem estática.  
+- **Vite** - Ferramenta para build e execução rápida de projetos React.  
+- **CSS3** - Para a estilização da interface e responsividade.  
+- **Node.js e npm** - Para gerenciamento de dependências e execução do ambiente de desenvolvimento.  
 
 ---
 
@@ -71,7 +71,7 @@ Durante o desenvolvimento deste projeto, foram aplicados e aprimorados os seguin
 
 ## 🧑‍🎓 Créditos e Autoria  
 Projeto desenvolvido por **Carolina Ferreira Passos Pessoa**,  
-como parte da **Prática 07 — Tópicos em Computação**,  
+como parte da **Prática 07 - Tópicos em Computação**,  
 sob orientação do professor responsável pela disciplina.  
 
 ---
